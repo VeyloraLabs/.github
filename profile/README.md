@@ -38,8 +38,6 @@ Manage your devices, firmware, applications, files, and maintenance tools from a
 
 [**View repository →**](https://github.com/VeyloraLabs/VeyloraDevice)
 
-More projects are in development.
-
 ### VeyloraNotes
  
 An open-source notepad with superpowers.
