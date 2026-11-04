@@ -40,10 +40,26 @@ Manage your devices, firmware, applications, files, and maintenance tools from a
 
 More projects are in development.
 
+### VeyloraNotes
+ 
+An open-source notepad with superpowers.
+ 
+Write notes in tabs, transform text with built-in tools, and preview Markdown the way it looks on GitHub, all in one fast window.
+ 
+- Tabs, find and replace (with regular expressions), and a command palette.
+- Dozens of text tools: case, line sorting, Base64, JSON, hashes, calculator, and more.
+- GitHub-style Markdown preview with images, tables, task lists, and highlighted code.
+- Unsaved tabs are restored when you reopen the app.
+- English and Spanish.
+- Built with Python, PySide6, and Fluent Widgets.
+[**View repository →**](https://github.com/VeyloraLabs/VeyloraNotes)
+ 
+More projects are in development.
+ 
 ## Technologies
-
+ 
 Our projects explore different technologies and development tools, including:
-
+ 
 - **Python** — Application development and automation.
 - **Qt / PySide6** — Desktop interfaces.
 - **Linux** — Development and software distribution.
