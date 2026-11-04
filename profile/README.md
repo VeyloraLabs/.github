@@ -52,6 +52,7 @@ Write notes in tabs, transform text with built-in tools, and preview Markdown th
 - Unsaved tabs are restored when you reopen the app.
 - English and Spanish.
 - Built with Python, PySide6, and Fluent Widgets.
+
 [**View repository →**](https://github.com/VeyloraLabs/VeyloraNotes)
  
 More projects are in development.
